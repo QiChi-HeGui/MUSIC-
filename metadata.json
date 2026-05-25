@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Hero Section",
+  "description": "A high-end cinematic music player with synchronized scrolling lrc lyrics, dynamic rotating vinyl visuals, integrated audio spectrum equalizer, and drag-and-drop local folder loaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
